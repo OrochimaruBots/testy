@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/6933370cdf7734976315f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">GojoBotzMDV1</h1>
+<h1 align="center">GojoBotzMDV3</h1>
 
 ## Saya Cuman Menambahkan Beberapa fitur Dan Merubah Beberapa Fitur Lainnya
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
@@ -25,11 +25,11 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/OrochimaruBotz/GojoBotzMDV1
-$ cd GojoBotzMDV1
+$ git clone https://github.com/OrochimaruBotz/GojoBotzMDV3
+$ cd GojoBotzMDV3
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/Hyuura-Official/YushinoMdV3#if-npm-install-failed--try--using-yarn-instead-of-npm)
+If error try using yarn instead of npm, see [here](https://github.com/OrochimaruBots/GojoBotzMDV3#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```bash
 $ node .
 ```
@@ -68,8 +68,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/OrochimaruBotz/GojoBotzMDV1
-cd GojoBotzMDV1
+git clone https://github.com/OrochimaruBotz/GojoBotzMDV3
+cd GojoBotzMDV3
 npm install
 npm update
 ```
@@ -84,8 +84,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/OrochimaruBotz/GojoBotzMDV1
-cd GojoBotzMDV1
+git https://github.com/OrochimaruBotz/GojoBotzMDV3
+cd GojoBotzMDV3
 npm install
 npm update
 ```
