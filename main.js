@@ -167,7 +167,7 @@ global.reloadHandler = async function (restatConn) {
   
 let welc = `Selamat Datang @user`
 let lef = 
-`Selanat Tinggal @user`
+`Selamat Tinggal @user`
 
   conn.welcome = welc
   conn.bye = lef
