@@ -155,8 +155,8 @@ if (command == 'erza') {
 let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/wallpaper/erza?apikey=apirey`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}    
 if (command == 'elaina') {
-let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/wallpaper/elaina?apikey=apirey`)
-conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}    
+let haha = await conn.getFile(`https://api.lolhuman.xyz/api/random/elaina?apikey=kiroapi`)
+conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT WAIFUKU��', `/${command}`]], m)}    
 if (command == 'eba') {
 let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/wallpaper/eba?apikey=apirey`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}  
